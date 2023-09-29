@@ -1,5 +1,5 @@
-from polygon.rest.models.common import SeriesType
-from polygon.rest.models.indicators import (
+from ..rest.models.common import SeriesType
+from ..rest.models.indicators import (
     SMAIndicatorResults,
     EMAIndicatorResults,
     RSIIndicatorResults,

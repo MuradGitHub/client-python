@@ -1,4 +1,4 @@
-from polygon.rest.models.summaries import SummaryResult
+from ..rest.models.summaries import SummaryResult
 from .base import BaseClient
 from typing import Optional, Any, Dict, List, Union
 from urllib3 import HTTPResponse
